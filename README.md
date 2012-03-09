@@ -1,3 +1,3 @@
-Colour Tail
-===========
+Colourful Tail
+==============
 Tail + Pygments (SQL for now)
